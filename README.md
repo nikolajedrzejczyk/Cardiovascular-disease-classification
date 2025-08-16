@@ -38,5 +38,5 @@ Projekt wykonany w ramach studiów.
 
 5. **Wnioski:**  
    - Dane medyczne i styl życia mogą być skutecznie wykorzystane do predykcji chorób sercowo-naczyniowych.
-   - Modele zespołowe (Random Forest) i sieci neuronowe osiągnęły najlepsze wyniki.
+   - Sieci neuronowe osiągnęły najlepsze wyniki.
 

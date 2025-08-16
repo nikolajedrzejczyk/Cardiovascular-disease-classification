@@ -24,7 +24,7 @@ Projekt wykonany w ramach studiów.
    - Random Forest  
    - MLPClassifier (sieci neuronowe)  
 4. **Ocena jakości modeli:**
-   -confusion matrix, classification report, accuracy 
+   - confusion matrix, classification report, accuracy 
 
 ---
 

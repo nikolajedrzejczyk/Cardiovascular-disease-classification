@@ -12,6 +12,15 @@ Projekt wykonany w ramach studiów.
 
 ---
 
+## Wykorzystane biblioteki:
+   - pandas
+   - numpy
+   - matplotlib.pyplot
+   - seaborn
+   - scikit-learn
+
+---
+
 ## Etapy analizy:
 1. **Import i przygotowanie danych:**
    - czyszczenie, transformacje, skalowanie
@@ -23,7 +32,6 @@ Projekt wykonany w ramach studiów.
    - Decision Tree  
    - Naive Bayes (GaussianNB)  
    - K-Nearest Neighbors (KNN)  
-   - Random Forest  
    - MLPClassifier (sieci neuronowe)  
 4. **Ocena jakości modeli:**
    - confusion matrix, classification report, accuracy 

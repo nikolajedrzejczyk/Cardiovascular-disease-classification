@@ -6,7 +6,7 @@ Classification of cardiovascular disease in patients based on medical and lifest
 ## Opis projektu:
 Celem projektu było przewidywanie, czy pacjent cierpi na choroby układu sercowo-naczyniowego, na podstawie danych medycznych i informacji o stylu życia.  
 
-Projekt został zrealizowany w pythonie na podstawie zbioru danych [Cardiovascular Disease dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset).[Czerwiec 2023] 
+Projekt został zrealizowany w pythonie na podstawie zbioru danych [Cardiovascular Disease dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset). [Czerwiec 2023] 
 
 Projekt wykonany w ramach studiów.
 
